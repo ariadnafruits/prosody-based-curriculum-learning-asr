@@ -92,7 +92,7 @@ Training experiments were conducted comparing:
 
 ## External Framework
 
-Experiments were conducted using the **Speacher** curriculum learning framework:
+Experiments were conducted on Transformer-based end-to-end ASR systems using the **Speacher** framework.
 
 https://github.com/gcambara/speacher
 
